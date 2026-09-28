@@ -5,5 +5,5 @@ print(a+b)
 #programm thats returns a user name
 
 
-user = input("Enter your name: ")
+user = input("EWhats your name: ")
 print("Your name is " + user)
